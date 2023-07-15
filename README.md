@@ -1,3 +1,7 @@
+# demo project client side
+
+This is just a demo project used to practice the react, spring book, postgres, and maybe docker aws
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
